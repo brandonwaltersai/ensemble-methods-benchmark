@@ -1,5 +1,7 @@
 # Ensemble Methods Benchmark
 
+![tests](https://github.com/brandonwaltersai/ensemble-methods-benchmark/actions/workflows/tests.yml/badge.svg)
+
 Two focused experiments on a shared theme: the default settings a
 classifier ships with (0.5 decision threshold, raw accuracy as the
 headline metric) are convenient defaults, not the correct choice for an
