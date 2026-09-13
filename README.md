@@ -62,4 +62,4 @@ Python · scikit-learn · imbalanced-learn (SMOTE)
 
 ## Author
 
-Brandon Walters — [LinkedIn](https://linkedin.com/in/brandon-walters-172b29208)
+Brandon Walters — [LinkedIn](https://www.linkedin.com/in/bw172b29208/) · [GitHub](https://github.com/brandonwaltersai)
